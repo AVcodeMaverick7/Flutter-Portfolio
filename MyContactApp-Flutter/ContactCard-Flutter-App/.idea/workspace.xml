@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e0aef77-76a1-45b3-bf0f-298c53a6769d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fonts/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Pacifico-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SourceSansPro-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vicky.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_29" />
+  <component name="FavoritesManager">
+    <favorites_list name="mi_card_flutter" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gPWlIXdtWECKtBIjS5dX2dUchP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SAPIENZA\ProceedIt\Flutter\Fprojects\mi_card_flutter\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e0aef77-76a1-45b3-bf0f-298c53a6769d" name="Default Changelist" comment="" />
+      <created>1598016856989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598016856989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#Notifications" timestamp="1598284725339">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="261" y="0" key="#Notifications/0.0.1536.832@0.0.1536.832" timestamp="1598284725339" />
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598282669760">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832@0.0.1536.832" timestamp="1598282669760" />
+    <state x="84" y="130" key="AndroidCreateResourceDirectoryDialog" timestamp="1598283462884">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="84" y="130" key="AndroidCreateResourceDirectoryDialog/0.0.1536.832@0.0.1536.832" timestamp="1598283462884" />
+    <state x="499" y="113" key="FileChooserDialogImpl" timestamp="1598284848538">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="499" y="113" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1598284848538" />
+    <state width="1481" height="146" key="GridCell.Tab.0.bottom" timestamp="1598284248905">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1481" height="146" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1598284248905" />
+    <state width="1481" height="146" key="GridCell.Tab.0.center" timestamp="1598284248905">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1481" height="146" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1598284248905" />
+    <state width="1481" height="146" key="GridCell.Tab.0.left" timestamp="1598284248904">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1481" height="146" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1598284248904" />
+    <state width="1481" height="146" key="GridCell.Tab.0.right" timestamp="1598284248905">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1481" height="146" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1598284248905" />
+    <state x="146" y="0" key="SettingsEditor" timestamp="1598283608070">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="146" y="0" key="SettingsEditor/0.0.1536.832@0.0.1536.832" timestamp="1598283608070" />
+    <state x="-18" y="116" width="1336" height="632" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598283397765">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="-18" y="116" width="1336" height="632" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.832@0.0.1536.832" timestamp="1598283397765" />
+    <state x="379" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1598284446808">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="379" y="198" key="com.intellij.ide.util.TipDialog/0.0.1536.832@0.0.1536.832" timestamp="1598284446808" />
+    <state x="342" y="187" key="run.anything.popup" timestamp="1598269080425">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="342" y="187" key="run.anything.popup/0.0.1536.832@0.0.1536.832" timestamp="1598269080425" />
+    <state x="347" y="0" width="840" height="830" key="search.everywhere.popup" timestamp="1598284287258">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="347" y="0" width="840" height="830" key="search.everywhere.popup/0.0.1536.832@0.0.1536.832" timestamp="1598284287258" />
+  </component>
+</project>

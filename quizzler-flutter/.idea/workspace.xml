@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17f4a44d-85ed-44cc-a6e9-95ae6dfb95ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/QuizBrain.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ggkjNxJzTIsfSndfC2HXTLC1bp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quizzler-flutter-challenge-starting" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17f4a44d-85ed-44cc-a6e9-95ae6dfb95ac" name="Default Changelist" comment="" />
+      <created>1598543756132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598543756132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1598546828345">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="530" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1536.832@0.0.1536.832" timestamp="1598546828345" />
+    <state x="499" y="113" key="FileChooserDialogImpl" timestamp="1598577395902">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="499" y="113" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1598577395902" />
+    <state width="1466" height="196" key="GridCell.Tab.0.bottom" timestamp="1598577397847">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1466" height="196" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1598577397847" />
+    <state width="1466" height="196" key="GridCell.Tab.0.center" timestamp="1598577397846">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1466" height="196" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1598577397846" />
+    <state width="1466" height="196" key="GridCell.Tab.0.left" timestamp="1598577397846">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1466" height="196" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1598577397846" />
+    <state width="1466" height="196" key="GridCell.Tab.0.right" timestamp="1598577397846">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1466" height="196" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1598577397846" />
+    <state x="146" y="0" key="SettingsEditor" timestamp="1598546873682">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="146" y="0" key="SettingsEditor/0.0.1536.832@0.0.1536.832" timestamp="1598546873682" />
+    <state x="100" y="100" width="1336" height="632" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598568251011">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="100" y="100" width="1336" height="632" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.832@0.0.1536.832" timestamp="1598568251011" />
+    <state x="342" y="187" key="run.anything.popup" timestamp="1598575548978">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="342" y="187" key="run.anything.popup/0.0.1536.832@0.0.1536.832" timestamp="1598575548978" />
+  </component>
+</project>
